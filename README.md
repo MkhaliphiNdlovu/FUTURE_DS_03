@@ -54,7 +54,6 @@ A synthetic marketing dataset was generated to simulate real-world customer acqu
 * Facebook Ads
 * Instagram
 * Email Marketing
-* Organic Search
 
 ---
 
@@ -66,7 +65,6 @@ A synthetic marketing dataset was generated to simulate real-world customer acqu
 * Lead → Qualified Lead Conversion Rate
 * Qualified Lead → Customer Conversion Rate
 * Overall Conversion Rate
-* Funnel Drop-Off Counts
 
 ---
 
@@ -76,7 +74,6 @@ A synthetic marketing dataset was generated to simulate real-world customer acqu
 2. Funnel Analysis
 3. Funnel Drop-Off Analysis
 4. Channel Performance Analysis
-5. Time Series Analysis
 
 ---
 
@@ -84,9 +81,9 @@ A synthetic marketing dataset was generated to simulate real-world customer acqu
 
 The project includes the following visualizations:
 
-### Funnel Performance Chart
-### Channel Conversion Comparison
-### Monthly Conversion Trends
+Funnel Performance Chart
+Channel Conversion Comparison
+Monthly Conversion Trends
 
 ---
 
@@ -109,20 +106,9 @@ The project includes the following visualizations:
 
 The analysis identifies:
 
-### Funnel Bottlenecks
-
-* Stages with the highest drop-off rates
-* Areas requiring optimization
-
-### Marketing Channel Effectiveness
-
-* Best-performing channels
-* Highest converting traffic sources
-
-### Customer Acquisition Trends
-
-* Monthly conversion patterns
-* Seasonal performance fluctuations
+Funnel Bottlenecks
+Marketing Channel Effectiveness
+Customer Acquisition Trends
 
 ---
 
@@ -134,18 +120,8 @@ Based on funnel performance analysis:
 2. Focus on High-Converting Channels
 3. Strengthen Lead Nurturing
 4. Conduct A/B Testing
-5. Monitor Funnel Metrics Regularly
 
 Track funnel KPIs continuously to detect conversion issues early.
-
----
-
-The script will:
-
-1. Generate the dataset
-2. Perform funnel analysis
-3. Calculate KPIs
-4. Create visualizations
 
 ---
 
@@ -181,8 +157,7 @@ The script will:
 
 Potential enhancements include:
 
-* Interactive Power BI Dashboard
-* Tableau Dashboard Integration
+* Interactive Dashboard
 * Predictive Conversion Modeling
 * Marketing Attribution Analysis
 
