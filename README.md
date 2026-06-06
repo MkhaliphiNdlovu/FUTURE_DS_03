@@ -1,4 +1,4 @@
-# 📊 Marketing Funnel & Conversion Performance Analysis - Task 3
+# 📊 Marketing Funnel & Conversion Performance Analysis Task 3
 
 ## 📌 Overview
 
